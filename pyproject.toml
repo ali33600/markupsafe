@@ -24,6 +24,7 @@ Documentation = "https://markupsafe.palletsprojects.com/"
 Changes = "https://markupsafe.palletsprojects.com/page/changes/"
 Source = "https://github.com/pallets/markupsafe/"
 Chat = "https://discord.gg/pallets"
+ChangeLog = "https://github.com/pallets/markupsafe/blob/main/CHANGES.rst"
 
 [dependency-groups]
 dev = [
